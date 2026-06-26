@@ -34,11 +34,11 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
   &nbsp;
-  <a href="[https://leetcode.com/Reyaz18](https://leetcode.com/u/Reyaz188/)" target="_blank">
+  <a href="https://leetcode.com/u/Reyaz188/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40"/>
   </a>
   &nbsp;
-  <a href="[https://auth.geeksforgeeks.org/user/Reyaz18](https://www.geeksforgeeks.org/profile/reyazal0gk3)" target="_blank">
+  <a href="https://www.geeksforgeeks.org/profile/reyazal0gk3" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="40" width="40"/>
   </a>
 </p>
@@ -85,8 +85,8 @@
 
 | Project | Description | Tech Stack | Live |
 |---------|-------------|-----------|------|
-| 🏨 **QuickStay** | Full-stack hotel booking & management system | React, Node.js, Express, MongoDB, Stripe, Clerk, Cloudinary | [🔗 Live]([https://your-quickstay-link.vercel.app](https://smart-stay-full-stack.vercel.app/)) |
-| ✅ **Team Task Manager** | Role-based task management with JWT auth | Node.js, Express, MongoDB, HTML, Tailwind CSS | [🔗 Live]([https://your-taskmanager.railway.app](https://reyaz18.github.io/team-task-manager/)) |
+| 🏨 **QuickStay** | Full-stack hotel booking & management system | React, Node.js, Express, MongoDB, Stripe, Clerk, Cloudinary | [🔗 Live](https://smart-stay-full-stack.vercel.app/) |
+| ✅ **Team Task Manager** | Role-based task management with JWT auth | Node.js, Express, MongoDB, HTML, Tailwind CSS | [🔗 Live](https://reyaz18.github.io/team-task-manager/) |
 | 🌤️ **Live Weather App** | Real-time weather using OpenWeatherMap API | HTML, CSS, JavaScript | [🔗 Live](#) |
 
 ---
