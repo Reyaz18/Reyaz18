@@ -16,7 +16,7 @@
 
 - 🎓 Final-year **B.Tech CSE** student at **I.T.S Engineering College, Greater Noida**
 - 💻 **Full Stack Web Developer** — MERN Stack (React, Node.js, Express, MongoDB)
-- 🏨 Built **QuickStay** — a live hotel booking system with Stripe payments & Clerk auth
+- 🏨 Built **SmartStay** — a live hotel booking system with Stripe payments & Clerk auth
 - ✅ Built **Team Task Manager** — JWT-based role access control app
 - 🧑‍💻 Solved **250+ DSA problems** on LeetCode & GeeksforGeeks
 - 🌱 Currently learning **PHP & Laravel**
@@ -85,9 +85,9 @@
 
 | Project | Description | Tech Stack | Live |
 |---------|-------------|-----------|------|
-| 🏨 **QuickStay** | Full-stack hotel booking & management system | React, Node.js, Express, MongoDB, Stripe, Clerk, Cloudinary | [🔗 Live](https://smart-stay-full-stack.vercel.app/) |
+| 🏨 **SmartStay** | Full-stack hotel booking & management system | React, Node.js, Express, MongoDB, Stripe, Clerk, Cloudinary | [🔗 Live](https://smart-stay-full-stack.vercel.app/) |
 | ✅ **Team Task Manager** | Role-based task management with JWT auth | Node.js, Express, MongoDB, HTML, Tailwind CSS | [🔗 Live](https://reyaz18.github.io/team-task-manager/) |
-| 🌤️ **Live Weather App** | Real-time weather using OpenWeatherMap API | HTML, CSS, JavaScript | [🔗 Live](#) |
+| 🌤️ **Live Weather App** | Real-time weather forecasting app with search by city | React.js, Vite, OpenWeatherMap API | [🔗 Live](https://zippy-torte-d957d9.netlify.app/) |
 
 ---
 
